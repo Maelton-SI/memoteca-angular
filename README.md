@@ -1,6 +1,6 @@
 # Projeto Memoteca
 
-Projeto criado com o intuito de aprender os conceitos iniciais da plataforma Angular e ter meu primeiro contato com a ferramenta.
+Projeto criado com o intuito de aprender os conceitos iniciais da plataforma e framework Angular e ter meu primeiro contato com a ferramenta.
 
 # Anotações Rápidas
 
